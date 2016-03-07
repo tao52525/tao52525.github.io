@@ -4,15 +4,20 @@
 
     
   <url>
-    <loc>http://yoursite.com/2016/03/07/test/</loc>
-    <lastmod>2016-03-07T13:39:18.391Z</lastmod>
+    <loc>http://yoursite.com/2015/03/21/test/</loc>
+    <lastmod>2016-03-07T14:04:12.465Z</lastmod>
     <data>
         <display>
         <title>My Test</title>
-        <pubTime>2016-03-07T13:39:18.391Z</pubTime>
+        <pubTime>2015-03-21T07:13:48.000Z</pubTime>
         
+        <tag>test</tag>
+         
          
            
+             
+              <breadCrumb title="mytest" url="http://yoursite.com/categories/mytest/"/>
+          
         </display>
     </data>
     </url>
