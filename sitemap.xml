@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2016/03/14/Git%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2016-03-14T13:24:44.251Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/2015/03/21/test/</loc>
     <lastmod>2016-03-07T14:04:12.465Z</lastmod>
   </url>
