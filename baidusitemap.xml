@@ -4,19 +4,19 @@
 
     
   <url>
-    <loc>http://yoursite.com/2015/03/21/hello-world/</loc>
-    <lastmod>2016-05-25T03:47:35.237Z</lastmod>
+    <loc>http://yoursite.com/2016/01/21/hello-world/</loc>
+    <lastmod>2016-05-25T03:52:11.785Z</lastmod>
     <data>
         <display>
         <title>Hello World</title>
-        <pubTime>2015-03-21T07:13:48.000Z</pubTime>
+        <pubTime>2016-01-20T16:00:00.000Z</pubTime>
         
         <tag>Hello World</tag>
          
          
            
              
-              <breadCrumb title="mytest" url="http://yoursite.com/categories/mytest/"/>
+              <breadCrumb title="Hello World" url="http://yoursite.com/categories/Hello-World/"/>
           
         </display>
     </data>
@@ -25,7 +25,7 @@
     
   <url>
     <loc>http://yoursite.com/2016/05/24/Photoshop%20CC%20%E5%88%87%E5%9B%BE/</loc>
-    <lastmod>2016-05-25T03:41:47.302Z</lastmod>
+    <lastmod>2016-05-25T03:45:34.740Z</lastmod>
     <data>
         <display>
         <title>Photoshop CC 切图</title>
